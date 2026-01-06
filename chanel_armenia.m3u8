@@ -1,5 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="H1 TV" tvg-logo="https://avatars.mds.yandex.net/i?id=8de527b0cf7fbe5a2a5e050520a53dce2be60362-7054477-images-thumbs&n=13" tvg-id="H1 TV", H1 TV 
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-name="1Lurer" tvg-logo="https://avatars.mds.yandex.net/i?id=970507cd90e2b95ad70ef17b2a899c5bec1bef11-9701523-images-thumbs&ref=rim&n=33&w=356&h=200" tvg-id="1Lurer", 1Lurer
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ARTN TV" tvg-logo="https://s00001.deespaces.com/5f5f1cf8-4ba1-11ed-aeb9-93b71599bd52/683c8ae4-abe2-427f-8d20-c88dd687b4ad.png" tvg-id="ARTN TV", ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="USArmenia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/USArmenia_logo.png" tvg-id="USArmenia TV", USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 tvg-name="Fresh TV" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="Fresh TV", Fresh TV
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="SongHD TV", SongHD TV
+https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="SongHD TV", SongHD TV
