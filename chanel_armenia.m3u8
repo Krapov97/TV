@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-name="Armenia 1" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-id="Armenia1.am" group-title="Armenia",Armenia 1
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
