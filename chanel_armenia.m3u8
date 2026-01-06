@@ -9,6 +9,6 @@ https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 #EXTINF:-1 tvg-name="Fresh TV" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="Fresh TV", Fresh TV
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="SongHD TV", SongHD TV
+#EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://images.iptv.rt.ru/images/ch4dl03mhk079s3jprf0.png" tvg-id="SongHD TV", SongHD TV
 https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8
 #EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="SongHD TV", SongHD TV
