@@ -14,4 +14,5 @@ https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8
 #EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3b14412c0840de590197a4a0bfc5bb25_l-5307715-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TBN Armenia" tvg-logo="https://tbn.am/eedignyf/2016/04/logo-tbn-new-e1455708114554.png" tvg-id="TBN Armenia", TBN Armenia
-https://player.gvideo.co/2f63055e-6870-40dd-92a9-56eadc9580ef
+https://164475.gvideo.io/cmaf/164475_650646/seg6000-part1000-qsid834-stream0-189917398-04035.m4s?CMCD=bl%3D1800%2Cbr%3D4050%2Ccid%3D%22650646%22%2Cd%3D6000%2Cdl%3D1800%2Cmtp%3D22800%2Cot%3Dv%2Cpr%3D0.9962499534923858%2Crtp%3D67300%2Csf%3Dd%2Csid%3D%226a3655fe-d16b-4787-badb-45def544ebbb%22%2Cst%3Dl%2Ctb%3D4050
+
