@@ -13,3 +13,5 @@ https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8
 #EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3b14412c0840de590197a4a0bfc5bb25_l-5307715-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="TBN Armenia" tvg-logo="https://tbn.am/eedignyf/2016/04/logo-tbn-new-e1455708114554.png" tvg-id="TBN Armenia", TBN Armenia
+https://player.gvideo.co/2f63055e-6870-40dd-92a9-56eadc9580ef
