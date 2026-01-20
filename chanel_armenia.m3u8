@@ -7,8 +7,6 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="USArmenia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/USArmenia_logo.png" tvg-id="USArmenia TV", USArmenia TV
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
-/*#EXTINF:-1 tvg-name="Fresh TV" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="Fresh TV", Fresh TV
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream*/
 #EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://images.iptv.rt.ru/images/ch4dl03mhk079s3jprf0.png" tvg-id="SongHD TV", SongHD TV
 https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
 #EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3b14412c0840de590197a4a0bfc5bb25_l-5307715-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
@@ -17,6 +15,7 @@ https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.ts.m3u8
 https://164475.gvideo.io/cmaf/164475_650646/master.m3u8
 #EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
 https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?token=123TREWQ456
-
+/*#EXTINF:-1 tvg-name="Fresh TV" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="Fresh TV", Fresh TV
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream*/
 
 
