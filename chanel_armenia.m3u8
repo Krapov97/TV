@@ -16,6 +16,8 @@ https://164475.gvideo.io/cmaf/164475_650646/master.m3u8
 #EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
 https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?rand=0.7868604960893002&token=123TREWQ456
 #EXTINF:-1 tvg-name="Yerkir Media" tvg-logo="https://avatars.mds.yandex.net/i?id=5841267903d76601c6b9e88ebd11c73a_l-12421984-images-thumbs&n=13" tvg-id="Yerkir Media", Yerkir Media
-https://live.yerkirmedia.am/play/1/92691807.m3u8
+https://live.yerkirmedia.am//play/1/index.m3u8?auth-live:@H6eK8JM(p)ff9pF
+#EXTINF:-1 tvg-name="Yerkir Media" tvg-logo="https://avatars.mds.yandex.net/i?id=5841267903d76601c6b9e88ebd11c73a_l-12421984-images-thumbs&n=13" tvg-id="Yerkir Media", Yerkir Media
+https://live.yerkirmedia.am/play/1/17907035.m3u8
 /*#EXTINF:-1 tvg-name="Fresh TV" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="Fresh TV", Fresh TV
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream*/
