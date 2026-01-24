@@ -21,3 +21,5 @@ https://live.yerkirmedia.am/play/1/19868974.m3u8
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-name="AABC TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c9790b22fb698e87b3af692c21a98df64eb68427-9266026-images-thumbs&n=13" tvg-id="AABC TV", AABC TV
 https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="AABC TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c9790b22fb698e87b3af692c21a98df64eb68427-9266026-images-thumbs&n=13" tvg-id="AABC TV", AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.ts.m3u8
