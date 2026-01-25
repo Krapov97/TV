@@ -19,5 +19,5 @@ https://us1.ottstream.live:17071/C279/tracks-v1a1/2026/01/25/13/32/55-05139.ts?t
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-name="AABC TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c9790b22fb698e87b3af692c21a98df64eb68427-9266026-images-thumbs&n=13" tvg-id="AABC TV", AABC TV
 https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Yerkir Media (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=5841267903d76601c6b9e88ebd11c73a_l-12421984-images-thumbs&n=13" tvg-id="Yerkir Media", Yerkir Media (VPN)
+#EXTINF:-1 tvg-name="Yerkir Media (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=5841267903d76601c6b9e88ebd11c73a_l-12421984-images-thumbs&n=13" tvg-id="Yerkir Media VPN", Yerkir Media (VPN)
 https://live.yerkirmedia.am//play/1/index.m3u8?auth=live:@H6eK8JM(p)ff9pF
