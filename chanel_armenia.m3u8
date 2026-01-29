@@ -19,6 +19,8 @@ https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
 https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="H2 TV" tvg-logo="https://avatars.mds.yandex.net/i?id=020005113fee044537942c1648e4a38e-4841096-images-thumbs&n=13" tvg-id="H2 TV", H2 TV
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_H2HD/variant.m3u8
+#EXTINF:-1 tvg-name="Fast Sport" tvg-logo="https://a1plus.am/static/articles/46/14/11/l-AfQV4dTq5n.jpg" tvg-id="Fast Sport", Fast Sport
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//variant.m3u8
 #EXTINF:-1 tvg-name="Yerkir Media (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=5841267903d76601c6b9e88ebd11c73a_l-12421984-images-thumbs&n=13" tvg-id="Yerkir Media VPN", Yerkir Media (VPN)
 https://a3285272783-s70378.cdn.ngenix.net//erkir_media//1/index.m3u8
 #EXTINF:-1 tvg-name="Fresh TV (Не работает)" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="Fresh TV (Не работает)", Fresh TV (Не работает)
