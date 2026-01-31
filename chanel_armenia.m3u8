@@ -11,7 +11,7 @@ https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 #EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://images.iptv.rt.ru/images/ch4dl03mhk079s3jprf0.png" tvg-id="SongHD TV", SongHD TV
 https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
-#EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3b14412c0840de590197a4a0bfc5bb25_l-5307715-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
+#EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3bbb83d56fe0972aad317c8bd72fde14_sr-5302039-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TBN Armenia" tvg-logo="https://tbn.am/eedignyf/2016/04/logo-tbn-new-e1455708114554.png" tvg-id="TBN Armenia", TBN Armenia
 https://164475.gvideo.io/cmaf/164475_650646/master.m3u8
