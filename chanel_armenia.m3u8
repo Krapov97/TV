@@ -16,7 +16,7 @@ https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TBN Armenia" tvg-logo="https://tbn.am/eedignyf/2016/04/logo-tbn-new-e1455708114554.png" tvg-id="TBN Armenia", TBN Armenia
 https://164475.gvideo.io/cmaf/164475_650646/master.m3u8
 #EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
-https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?token=123TREWQ456
 #EXTINF:-1 tvg-name="AABC TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c9790b22fb698e87b3af692c21a98df64eb68427-9266026-images-thumbs&n=13" tvg-id="AABC TV", AABC TV
 https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Azatutyun TV" tvg-logo="https://avatars.mds.yandex.net/i?id=01b7c6c92494fa053dcc1f99f89f417e_l-5351536-images-thumbs&n=13" tvg-id="Azatutyun TV", Azatutyun TV
