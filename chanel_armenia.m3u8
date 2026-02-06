@@ -5,6 +5,8 @@ https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_H2HD/variant.m3u8
 #EXTINF:-1 tvg-name="1Lurer" tvg-logo="https://avatars.mds.yandex.net/i?id=970507cd90e2b95ad70ef17b2a899c5bec1bef11-9701523-images-thumbs&ref=rim&n=33&w=356&h=200" tvg-id="1Lurer", 1Lurer
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="5 Plus TV" tvg-logo="https://avatars.mds.yandex.net/i?id=43e693a0c7172e646430c9bb69e0d087_sr-11919578-images-thumbs&n=13" tvg-id="5 Plus TV", 5 Plus TV
+http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15488/index.m3u8
 #EXTINF:-1 tvg-name="ARTN TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4c9c091f37fadb9156d1337b997cb022-4326647-images-thumbs&n=13" tvg-id="ARTN TV", ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="USArmenia TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2966bb37b0906ff83adea4c68ad92c18_l-5162829-images-thumbs&n=13" tvg-id="USArmenia TV", USArmenia TV
@@ -31,8 +33,6 @@ https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15214/index.m3u8
 #EXTINF:-1 tvg-name="FreeNewAM (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=75ff1187511375f0385fcd9d543e1a40_l-3492591-images-thumbs&n=13" tvg-id="FreeNewAM (VPN)", FreeNewAM (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15501/index.m3u8
-#EXTINF:-1 tvg-name="5 Plus (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=43e693a0c7172e646430c9bb69e0d087_sr-11919578-images-thumbs&n=13" tvg-id="5 Plus (VPN)", 5 Plus (VPN)
-http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15488/index.m3u8
 #EXTINF:-1 tvg-name="սինեման (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=75ff1187511375f0385fcd9d543e1a40_l-3492591-images-thumbs&n=13" tvg-id="սինեման (VPN)", սինեման (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/BF9GWX8VNPYM8X/283/index.m3u8
 #EXTINF:-1 tvg-name="Kotayk TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=b30d7dc151b7ef91f7e2b42fbcfd0758_l-5235890-images-thumbs&n=13" tvg-id="Kotayk TV (VPN)", Kotayk TV (VPN)
