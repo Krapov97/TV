@@ -7,10 +7,6 @@ https://a3285272783-s80718.cdn.ngenix.net//hls//CH_H2HD/variant.m3u8
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ARTN TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4c9c091f37fadb9156d1337b997cb022-4326647-images-thumbs&n=13" tvg-id="ARTN TV", ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Arma TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=a85ac970b8c1c7f85877afdbb9b15f13_sr-8505782-images-thumbs&n=13" tvg-id="Arma TV (VPN)", Arma TV (VPN)
-http://eb4b8dcf.kablakaka.ru/iptv/BF9GWX8VNPYM9X/15489/index.m3u8
-#EXTINF:-1 tvg-name="FreeNewAM" tvg-logo="https://avatars.mds.yandex.net/i?id=75ff1187511375f0385fcd9d543e1a40_l-3492591-images-thumbs&n=13" tvg-id="FreeNewAM", FreeNewAM
-http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15501/index.m3u8
 #EXTINF:-1 tvg-name="USArmenia TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2966bb37b0906ff83adea4c68ad92c18_l-5162829-images-thumbs&n=13" tvg-id="USArmenia TV", USArmenia TV
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 #EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://images.iptv.rt.ru/images/ch4dl03mhk079s3jprf0.png" tvg-id="SongHD TV", SongHD TV
@@ -27,10 +23,38 @@ https://a3285272783-s80718.cdn.ngenix.net/hls//CH_AZATUTYUN_TVHD/variant.m3u8
 https://a3285272783-s70378.cdn.ngenix.net//filmzone//4/index.m3u8
 #EXTINF:-1 tvg-name="Fast Sport" tvg-logo="https://a1plus.am/static/articles/46/14/11/l-AfQV4dTq5n.jpg" tvg-id="Fast Sport", Fast Sport
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//variant.m3u8
-#EXTINF:-1 tvg-name="Yerkir Media (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=5841267903d76601c6b9e88ebd11c73a_l-12421984-images-thumbs&n=13" tvg-id="Yerkir Media VPN", Yerkir Media (VPN)
+#EXTINF:-1 tvg-name="Yerkir Media" tvg-logo="https://avatars.mds.yandex.net/i?id=5841267903d76601c6b9e88ebd11c73a_l-12421984-images-thumbs&n=13" tvg-id="Yerkir Media", Yerkir Media
 https://a3285272783-s70378.cdn.ngenix.net//erkir_media//1/index.m3u8
 #EXTINF:-1 tvg-name="Fresh TV (VPN)" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="Fresh TV (VPN)", Fresh TV (VPN)
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 tvg-name="Arma TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=a85ac970b8c1c7f85877afdbb9b15f13_sr-8505782-images-thumbs&n=13" tvg-id="Arma TV (VPN)", Arma TV (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/BF9GWX8VNPYM9X/15489/index.m3u8
+#EXTINF:-1 tvg-name="FreeNewAM (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=75ff1187511375f0385fcd9d543e1a40_l-3492591-images-thumbs&n=13" tvg-id="FreeNewAM (VPN)", FreeNewAM (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15501/index.m3u8
+#EXTINF:-1 tvg-name="5 Plus (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=43e693a0c7172e646430c9bb69e0d087_sr-11919578-images-thumbs&n=13" tvg-id="5 Plus (VPN)", 5 Plus (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15488/index.m3u8
+#EXTINF:-1 tvg-name="սինեման (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=75ff1187511375f0385fcd9d543e1a40_l-3492591-images-thumbs&n=13" tvg-id="սինեման (VPN)", սինեման (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/BF9GWX8VNPYM8X/283/index.m3u8
+#EXTINF:-1 tvg-name="Kotayk TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=b30d7dc151b7ef91f7e2b42fbcfd0758_l-5235890-images-thumbs&n=13" tvg-id="Kotayk TV (VPN)", Kotayk TV (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15498/index.m3u8
+#EXTINF:-1 tvg-name="ջան tv (VPN)" tvg-logo="http://ru.epg.one/img/2396.png" tvg-id="ջան tv (VPN)", ջան tv (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/285/index.m3u8
+#EXTINF:-1 tvg-name="ջան tv (VPN)" tvg-logo="http://ru.epg.one/img/2396.png" tvg-id="ջան tv (VPN)", ջան tv (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/285/index.m3u8
+#EXTINF:-1 tvg-name="Delta TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=7121db5a461e4cfb920fe19e8a8c3184_l-4592245-images-thumbs&n=13" tvg-id="Delta TV (VPN)", Delta TV (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/285/index.m3u8
+#EXTINF:-1 tvg-name="Ֆորտունա TV (VPN)" tvg-logo="http://ru.epg.one/img/5942.png" tvg-id="Ֆորտունա TV (VPN)", Ֆորտունա TV (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15503/index.m3u8
+#EXTINF:-1 tvg-name="Ցայգ TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=4463b1102ec2a51aa08ef8e9fbab870c_l-4519035-images-thumbs&n=13" tvg-id="Ցայգ TV (VPN)", Ցայգ TV (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15499/index.m3u8
+#EXTINF:-1 tvg-name="Լոռի TV (VPN)" tvg-logo="https://loritv.am/media/cache/gallery_big/bundles/app/img/logo_empty.png" tvg-id="Լոռի TV (VPN)", Լոռի TV (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/BF9GWX8VNPYM9X/15500/index.m3u8
+#EXTINF:-1 tvg-name="Nor Hayastan TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=d88c9804087b81a6d743abb76e3953a8c42cac4d-5869639-images-thumbs&n=13" tvg-id="Nor Hayastan TV (VPN)", Nor Hayastan TV (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/MGQGZMUEWZZ6V8/15210/index.m3u8
+#EXTINF:-1 tvg-name="ABN TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=9b77b9097888698266936996dbbb7b09_l-5436885-images-thumbs&n=13" tvg-id="ABN TV (VPN)", ABN TV (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15490/index.m3u8
+#EXTINF:-1 tvg-name="հայ կինո TV (VPN)" tvg-logo="http://epg.one/img/2397.png" tvg-id="հայ կինո TV (VPN)", հայ կինո TV (VPN)
+http://eb4b8dcf.kablakaka.ru/iptv/MGQGZMUEWZZ6V8/286/index.m3u8
 #EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
 https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?token=123TREWQ456
 #EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
