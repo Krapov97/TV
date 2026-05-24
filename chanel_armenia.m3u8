@@ -13,6 +13,9 @@ https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 #EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://images.iptv.rt.ru/images/ch4dl03mhk079s3jprf0.png" tvg-id="SongHD TV", SongHD TV
 https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
+#EXTINF:-1 tvg-name="FreeNews AM" tvg-logo="https://avatars.mds.yandex.net/i?id=190f51ff48bd9450f1ffca71e651f1b232676c90-5171950-images-thumbs&n=13" tvg-id="FreeNews AM", FreeNews AM
+http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/15212/index.m3u8
+
 #EXTINF:-1 tvg-name="ջան tv (VPN)" tvg-logo="http://ru.epg.one/img/2396.png" tvg-id="ջան tv (VPN)", ջան tv (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/285/index.m3u8
 #EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3bbb83d56fe0972aad317c8bd72fde14_sr-5302039-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
@@ -60,6 +63,7 @@ http://eb4b8dcf.kablakaka.ru/iptv/MGQGZMUEWZZ6V8/15210/index.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15490/index.m3u8
 #EXTINF:-1 tvg-name="հայ կինո TV (VPN)" tvg-logo="http://epg.one/img/2397.png" tvg-id="հայ կինո TV (VPN)", հայ կինո TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/MGQGZMUEWZZ6V8/286/index.m3u8
+
 #EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
 https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?token=123TREWQ456
 #EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
