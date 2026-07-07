@@ -17,7 +17,7 @@ https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/15212/index.m3u8
 #EXTINF:-1 tvg-name="Armount tv" tvg-logo="https://avatars.mds.yandex.net/i?id=3c92440e099aa0e3a0c7465411208ca0_l-5231908-images-thumbs&n=13" tvg-id="Armount tv", Armount tv
 https://us1.ottstream.live:17071/C352/tracks-v1a1/mono.m3u8?token=GGfkFV4$TXeZjt3i
-#EXTINF:-1 tvg-name="ջան tv (VPN)" tvg-logo="http://ru.epg.one/img/2396.png" tvg-id="ջան tv (VPN)", ջան tv (VPN)
+#EXTINF:-1 tvg-name="ջան tv (VPN)" tvg-logo="http://ru.epg.one/img/2396.png" tvg-id="ջան tv", ջան tv
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/285/index.m3u8
 #EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3bbb83d56fe0972aad317c8bd72fde14_sr-5302039-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.ts.m3u8
