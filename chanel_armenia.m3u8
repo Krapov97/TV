@@ -19,6 +19,8 @@ http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/15212/index.m3u8
 https://us1.ottstream.live:17071/C352/tracks-v1a1/mono.m3u8?token=GGfkFV4$TXeZjt3i
 #EXTINF:-1 tvg-name="ջան tv" tvg-logo="http://ru.epg.one/img/2396.png" tvg-id="ջան tv", ջան tv
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/285/index.m3u8
+#EXTINF:-1 tvg-name="Armenia Premium" tvg-logo="http://ru.epg.one/img/2396.png" tvg-id="Armenia Premium", Armenia Premium
+http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/273/index.m3u8
 #EXTINF:-1 tvg-name="Nor Hayastan" tvg-logo="https://online-television.net/uploads/posts/2023-01/nor-hayastan.webp" tvg-id="Nor Hayastan", Nor Hayastan
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/15210/index.m3u8
 #EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3bbb83d56fe0972aad317c8bd72fde14_sr-5302039-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
