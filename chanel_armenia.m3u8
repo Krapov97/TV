@@ -43,8 +43,7 @@ http://eb4b8dcf.kablakaka.ru/iptv/MM4E93NGF5LADZ/15209/index.m3u8
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-name="Arma TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=a85ac970b8c1c7f85877afdbb9b15f13_sr-8505782-images-thumbs&n=13" tvg-id="Arma TV (VPN)", Arma TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15214/index.m3u8
-#EXTINF:-1 tvg-name="FreeNewAM (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=75ff1187511375f0385fcd9d543e1a40_l-3492591-images-thumbs&n=13" tvg-id="FreeNewAM (VPN)", FreeNewAM (VPN)
-http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15501/index.m3u8
+
 #EXTINF:-1 tvg-name="սինեման (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=75ff1187511375f0385fcd9d543e1a40_l-3492591-images-thumbs&n=13" tvg-id="սինեման (VPN)", սինեման (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/BF9GWX8VNPYM8X/283/index.m3u8
 #EXTINF:-1 tvg-name="Kotayk TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=b30d7dc151b7ef91f7e2b42fbcfd0758_l-5235890-images-thumbs&n=13" tvg-id="Kotayk TV (VPN)", Kotayk TV (VPN)
