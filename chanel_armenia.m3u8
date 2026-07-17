@@ -52,8 +52,6 @@ https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-name="Arma TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=a85ac970b8c1c7f85877afdbb9b15f13_sr-8505782-images-thumbs&n=13" tvg-id="Arma TV (VPN)", Arma TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15214/index.m3u8
 
-#EXTINF:-1 tvg-name="սինեման (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=75ff1187511375f0385fcd9d543e1a40_l-3492591-images-thumbs&n=13" tvg-id="սինեման (VPN)", սինեման (VPN)
-http://eb4b8dcf.kablakaka.ru/iptv/BF9GWX8VNPYM8X/283/index.m3u8
 #EXTINF:-1 tvg-name="Kotayk TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=b30d7dc151b7ef91f7e2b42fbcfd0758_l-5235890-images-thumbs&n=13" tvg-id="Kotayk TV (VPN)", Kotayk TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15498/index.m3u8
 #EXTINF:-1 tvg-name="Delta TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=7121db5a461e4cfb920fe19e8a8c3184_l-4592245-images-thumbs&n=13" tvg-id="Delta TV (VPN)", Delta TV 1(VPN)
@@ -64,8 +62,6 @@ http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15503/index.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15499/index.m3u8
 #EXTINF:-1 tvg-name="Լոռի TV (VPN)" tvg-logo="https://loritv.am/media/cache/gallery_big/bundles/app/img/logo_empty.png" tvg-id="Լոռի TV (VPN)", Լոռի TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/BF9GWX8VNPYM9X/15500/index.m3u8
-#EXTINF:-1 tvg-name="Nor Hayastan TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=d88c9804087b81a6d743abb76e3953a8c42cac4d-5869639-images-thumbs&n=13" tvg-id="Nor Hayastan TV (VPN)", Nor Hayastan TV (VPN)
-http://eb4b8dcf.kablakaka.ru/iptv/MGQGZMUEWZZ6V8/15210/index.m3u8
 #EXTINF:-1 tvg-name="ABN TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=9b77b9097888698266936996dbbb7b09_l-5436885-images-thumbs&n=13" tvg-id="ABN TV (VPN)", ABN TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15490/index.m3u8
 #EXTINF:-1 tvg-name="հայ կինո TV (VPN)" tvg-logo="http://epg.one/img/2397.png" tvg-id="հայ կինո TV (VPN)", հայ կինո TV (VPN)
