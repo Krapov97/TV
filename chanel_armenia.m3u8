@@ -2,7 +2,11 @@
 #EXTINF:-1 tvg-name="H1 TV" tvg-logo="https://avatars.mds.yandex.net/i?id=8de527b0cf7fbe5a2a5e050520a53dce2be60362-7054477-images-thumbs&n=13" tvg-id="H1 TV", H1 TV 
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-name="H2 TV" tvg-logo="https://avatars.mds.yandex.net/i?id=020005113fee044537942c1648e4a38e-4841096-images-thumbs&n=13" tvg-id="H2 TV", H2 TV
-https://gisher.me/live/h2/video.m3u8?t=EyEgrDwW2Lu7fFRntEvUqA&e=1783433542
+https://streamer-2.enchart.one/42/39d54b12b99ce6e810fe27a200022b86be407631/2642/stream.m3u8
+#EXTINF:-1 tvg-name="Shant Premium" tvg-logo="https://www.akado.ru/upload/image/Nadin/Shant-350.png" tvg-id="Shant Premium", Shant Premium
+https://streamer-2.enchart.one/42/39d54b12b99ce6e810fe27a200022b86be407631/1062/stream.m3u8
+#EXTINF:-1 tvg-name="Shant Serial" tvg-logo="https://dbtv.ru/upload/icons/shant-serial-hd.png" tvg-id="Shant Serial", Shant Serial
+https://streamer-2.enchart.one/42/39d54b12b99ce6e810fe27a200022b86be407631/1426/stream.m3u8
 #EXTINF:-1 tvg-name="1Lurer" tvg-logo="https://avatars.mds.yandex.net/i?id=970507cd90e2b95ad70ef17b2a899c5bec1bef11-9701523-images-thumbs&ref=rim&n=33&w=356&h=200" tvg-id="1Lurer", 1Lurer
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="5 Plus TV" tvg-logo="https://avatars.mds.yandex.net/i?id=43e693a0c7172e646430c9bb69e0d087_sr-11919578-images-thumbs&n=13" tvg-id="5 Plus TV", 5 Plus TV
@@ -23,6 +27,8 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/285/index.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/8KSD5KFDXA6H88/15499/index.m3u8
 #EXTINF:-1 tvg-name="Armenia Premium" tvg-logo="https://avatars.mds.yandex.net/i?id=81440b2bef795177078a7f8477491f19_l-5240938-images-thumbs&n=13" tvg-id="Armenia Premium", Armenia Premium
 https://streamer-2.enchart.one/42/39d54b12b99ce6e810fe27a200022b86be407631/1052/stream.m3u8
+#EXTINF:-1 tvg-name="Armenia TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ArmeniaTV-English-Logo.svg/1280px-ArmeniaTV-English-Logo.svg.png" tvg-id="Armenia TV HD", Armenia TV HD
+https://streamer-2.enchart.one/42/39d54b12b99ce6e810fe27a200022b86be407631/2661/stream.m3u8
 #EXTINF:-1 tvg-name="Nor Hayastan" tvg-logo="https://online-television.net/uploads/posts/2023-01/nor-hayastan.webp" tvg-id="Nor Hayastan", Nor Hayastan
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/15210/index.m3u8
 #EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3bbb83d56fe0972aad317c8bd72fde14_sr-5302039-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
