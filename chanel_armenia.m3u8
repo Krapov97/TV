@@ -73,8 +73,4 @@ http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15490/index.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/MGQGZMUEWZZ6V8/286/index.m3u8
 
 #EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://panarmenian.tv
-https://us1.ottstream.live:17071/C279/tracks-v1a1/mono.m3u8?token=123TREWQ456
-#EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
 https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
