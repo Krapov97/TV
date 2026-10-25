@@ -24,6 +24,9 @@ https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15501/index.m3u8
 #EXTINF:-1 tvg-name="Armount tv" tvg-logo="https://avatars.mds.yandex.net/i?id=3c92440e099aa0e3a0c7465411208ca0_l-5231908-images-thumbs&n=13" tvg-id="Armount tv", Armount tv
 https://us1.ottstream.live:17071/C352/tracks-v1a1/mono.m3u8?token=GGfkFV4$TXeZjt3i
+#EXTINF:-1 tvg-name="5 plus" tvg-logo="https://livetv24.org/images/5927.png" tvg-id="5 plus", 5 plus
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15488/index.m3u8
+
 #EXTINF:-1 tvg-name="ջան tv" tvg-logo="http://ru.epg.one/img/2396.png" tvg-id="ջան tv", ջան tv
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/285/index.m3u8
 #EXTINF:-1 tvg-name="Armenia Premium" tvg-logo="https://avatars.mds.yandex.net/i?id=81440b2bef795177078a7f8477491f19_l-5240938-images-thumbs&n=13" tvg-id="Armenia Premium", Armenia Premium
