@@ -1,80 +1,103 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="H1 TV" tvg-logo="https://avatars.mds.yandex.net/i?id=8de527b0cf7fbe5a2a5e050520a53dce2be60362-7054477-images-thumbs&n=13" tvg-id="H1 TV", H1 TV 
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="H2 TV" tvg-logo="https://avatars.mds.yandex.net/i?id=020005113fee044537942c1648e4a38e-4841096-images-thumbs&n=13" tvg-id="H2 TV", H2 TV
 https://auth.ttvrun.one/s/2642/1/1/bbca67677407e1facc58150911a97f9c46865525/playlist.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Shant Premium" tvg-logo="https://cdn.media.24h.tv/img/ch/87/62/8762a9b8cd9d6e9ec0bab4e84134cca5.png" tvg-id="Shant Premium", Shant Premium
 http://stream.mcquack.net/37/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Shant Serial" tvg-logo="https://dbtv.ru/upload/icons/shant-serial-hd.png" tvg-id="Shant Serial", Shant Serial
 https://auth.ttvrun.one/s/1426/1/1/bbca67677407e1facc58150911a97f9c46865525/playlist.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="1Lurer" tvg-logo="https://avatars.mds.yandex.net/i?id=970507cd90e2b95ad70ef17b2a899c5bec1bef11-9701523-images-thumbs&ref=rim&n=33&w=356&h=200" tvg-id="1Lurer", 1Lurer
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="5 Plus TV" tvg-logo="https://avatars.mds.yandex.net/i?id=43e693a0c7172e646430c9bb69e0d087_sr-11919578-images-thumbs&n=13" tvg-id="5 Plus TV", 5 Plus TV
 https://auth.ttvrun.one/s/468/1/1/bbca67677407e1facc58150911a97f9c46865525/playlist.m3u8
-
-
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="ARTN TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4c9c091f37fadb9156d1337b997cb022-4326647-images-thumbs&n=13" tvg-id="ARTN TV", ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="USArmenia TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2966bb37b0906ff83adea4c68ad92c18_l-5162829-images-thumbs&n=13" tvg-id="USArmenia TV", USArmenia TV
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://images.iptv.rt.ru/images/ch4dl03mhk079s3jprf0.png" tvg-id="SongHD TV", SongHD TV
 https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="FreeNews AM" tvg-logo="https://avatars.mds.yandex.net/i?id=190f51ff48bd9450f1ffca71e651f1b232676c90-5171950-images-thumbs&n=13" tvg-id="FreeNews AM", FreeNews AM
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15501/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Armount tv" tvg-logo="https://avatars.mds.yandex.net/i?id=3c92440e099aa0e3a0c7465411208ca0_l-5231908-images-thumbs&n=13" tvg-id="Armount tv", Armount tv
 https://us1.ottstream.live:17071/C352/tracks-v1a1/mono.m3u8?token=GGfkFV4$TXeZjt3i
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="5 plus" tvg-logo="https://livetv24.org/images/5927.png" tvg-id="5 plus", 5 plus
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15488/index.m3u8
-
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="ջան tv" tvg-logo="http://ru.epg.one/img/2396.png" tvg-id="ջան tv", ջան tv
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/285/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Armenia Premium" tvg-logo="https://avatars.mds.yandex.net/i?id=81440b2bef795177078a7f8477491f19_l-5240938-images-thumbs&n=13" tvg-id="Armenia Premium", Armenia Premium
 http://stream.mcquack.net/123/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Armenia TV HD" tvg-logo="https://avatars.mds.yandex.net/i?id=a62a376436282910fc96835cdd282241_l-5226832-images-thumbs&n=13" tvg-id="Armenia TV HD", Armenia TV HD
 http://stream.mcquack.net/175/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Nor Hayastan" tvg-logo="https://online-television.net/uploads/posts/2023-01/nor-hayastan.webp" tvg-id="Nor Hayastan", Nor Hayastan
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/15210/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="AMGA TV" tvg-logo="https://avatars.mds.yandex.net/i?id=3bbb83d56fe0972aad317c8bd72fde14_sr-5302039-images-thumbs&n=13" tvg-id="AMGA TV", AMGA TV
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.ts.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="TBN Armenia" tvg-logo="https://tbn.am/eedignyf/2016/04/logo-tbn-new-e1455708114554.png" tvg-id="TBN Armenia", TBN Armenia
 https://164475.gvideo.io/cmaf/164475_650646/master.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="AABC TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c9790b22fb698e87b3af692c21a98df64eb68427-9266026-images-thumbs&n=13" tvg-id="AABC TV", AABC TV
 https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.ts.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Kentron tv" tvg-logo="https://avatars.mds.yandex.net/i?id=37d8d60f752597bec839f3725c0889b70168cbd6-5665339-images-thumbs&n=13" tvg-id="Kentron tv", Kentron tv
 http://stream.mcquack.net/39/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="ATVHD" tvg-logo="https://avatars.mds.yandex.net/i?id=57150b87f616a262ef426916d306cb5b_sr-3542421-images-thumbs&n=13" tvg-id="ATVHD", ATVHD
 http://stream.mcquack.net/36/index.m3u8
-
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Azatutyun TV" tvg-logo="https://avatars.mds.yandex.net/i?id=01b7c6c92494fa053dcc1f99f89f417e_l-5351536-images-thumbs&n=13" tvg-id="Azatutyun TV", Azatutyun TV
 https://a3285272783-s80718.cdn.ngenix.net/hls//CH_AZATUTYUN_TVHD/variant.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Fast Sport" tvg-logo="https://a1plus.am/static/articles/46/14/11/l-AfQV4dTq5n.jpg" tvg-id="Fast Sport", Fast Sport
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15507/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Yerkir Media" tvg-logo="https://avatars.mds.yandex.net/i?id=5841267903d76601c6b9e88ebd11c73a_l-12421984-images-thumbs&n=13" tvg-id="Yerkir Media", Yerkir Media
-http://eb4b8dcf.kablakaka.ru/iptv/MM4E93NGF5LADZ/15209/index.m3u8
-#https://a3285272783-s70378.cdn.ngenix.net//erkir_media//1/index.m3u8
-
+https://a3285272783-s70378.cdn.ngenix.net//erkir_media//1/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Fresh TV (VPN)" tvg-logo="https://smotret.tv/images/fresh-tv.jpg" tvg-id="Fresh TV (VPN)", Fresh TV (VPN)
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Arma TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=a85ac970b8c1c7f85877afdbb9b15f13_sr-8505782-images-thumbs&n=13" tvg-id="Arma TV (VPN)", Arma TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15214/index.m3u8
-
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Kotayk TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=b30d7dc151b7ef91f7e2b42fbcfd0758_l-5235890-images-thumbs&n=13" tvg-id="Kotayk TV (VPN)", Kotayk TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15498/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Delta TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=7121db5a461e4cfb920fe19e8a8c3184_l-4592245-images-thumbs&n=13" tvg-id="Delta TV (VPN)", Delta TV 1(VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/18214/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Ֆորտունա TV (VPN)" tvg-logo="http://ru.epg.one/img/5942.png" tvg-id="Ֆորտունա TV (VPN)", Ֆորտունա TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15503/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Ցայգ TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=4463b1102ec2a51aa08ef8e9fbab870c_l-4519035-images-thumbs&n=13" tvg-id="Ցայգ TV (VPN)", Ցայգ TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/GVR4V8HYAGBS5V/15499/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Լոռի TV (VPN)" tvg-logo="https://loritv.am/media/cache/gallery_big/bundles/app/img/logo_empty.png" tvg-id="Լոռի TV (VPN)", Լոռի TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/BF9GWX8VNPYM9X/15500/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="ABN TV (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=9b77b9097888698266936996dbbb7b09_l-5436885-images-thumbs&n=13" tvg-id="ABN TV (VPN)", ABN TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15490/index.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="հայ կինո TV (VPN)" tvg-logo="http://epg.one/img/2397.png" tvg-id="հայ կինո TV (VPN)", հայ կինո TV (VPN)
 http://eb4b8dcf.kablakaka.ru/iptv/MGQGZMUEWZZ6V8/286/index.m3u8
-
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian
 https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
-#EXTINF:-1 tvg-name="Panarmenian" tvg-logo="https://www.parsatv.com/index_files/channels/panarmeniantv.png" tvg-id="Panarmenian", Panarmenian 
-https://tulix.tv
- 
+######################################################################################################################################################################################################################
