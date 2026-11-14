@@ -26,6 +26,9 @@ https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="USArmenia TV" tvg-logo="https://avatars.mds.yandex.net/i?id=2966bb37b0906ff83adea4c68ad92c18_l-5162829-images-thumbs&n=13" tvg-id="USArmenia TV", USArmenia TV
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 ######################################################################################################################################################################################################################
+#EXTINF:-1 tvg-name="21 TV" tvg-logo="https://avatars.mds.yandex.net/i?id=b849a4ccace30e81098b88d18208429b_l-5660351-images-thumbs&n=13", 21 TV
+https://auth.ttvrun.one/s/1553/1/1/bbca67677407e1facc58150911a97f9c46865525/playlist.m3u8
+######################################################################################################################################################################################################################
 #EXTINF:-1 tvg-name="SongHD TV" tvg-logo="https://images.iptv.rt.ru/images/ch4dl03mhk079s3jprf0.png" tvg-id="SongHD TV", SongHD TV
 https://songtv.hls.iptvdc.com/web-armenia/lhigh/playlist.m3u8
 ######################################################################################################################################################################################################################
