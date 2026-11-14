@@ -10,9 +10,8 @@ https://auth.ttvrun.one/s/1426/1/1/bbca67677407e1facc58150911a97f9c46865525/play
 #EXTINF:-1 tvg-name="1Lurer" tvg-logo="https://avatars.mds.yandex.net/i?id=970507cd90e2b95ad70ef17b2a899c5bec1bef11-9701523-images-thumbs&ref=rim&n=33&w=356&h=200" tvg-id="1Lurer", 1Lurer
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="5 Plus TV" tvg-logo="https://avatars.mds.yandex.net/i?id=43e693a0c7172e646430c9bb69e0d087_sr-11919578-images-thumbs&n=13" tvg-id="5 Plus TV", 5 Plus TV
-#EXTVLCOPT:http-referrer=https://gisher.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://gisher.me/live/5tv/video.m3u8?t=rJC3iwEZiDJlfplCHGRatw&e=1787411038
+https://auth.ttvrun.one/s/468/1/1/bbca67677407e1facc58150911a97f9c46865525/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="ARTN TV" tvg-logo="https://avatars.mds.yandex.net/i?id=4c9c091f37fadb9156d1337b997cb022-4326647-images-thumbs&n=13" tvg-id="ARTN TV", ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
